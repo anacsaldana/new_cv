@@ -1,0 +1,152 @@
+body {
+
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+h1 {
+   color:#674188;
+   font-size: 5rem;
+   margin: 50px auto 0 auto;
+
+    font-family: 'Indie Flower', cursive;
+
+}
+
+h2 {
+    color:#674188;
+    font-weight: normal;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+h3{
+    color:#674188;
+    font-family: 'Indie Flower', cursive;
+}
+
+.minhafoto {
+    border-radius:100%;
+    width: 200px;
+    height: 200px;
+}
+
+.conhecimento
+{ width: 25%;
+    height: 25%;
+    float: left;
+    margin: auto 30px auto auto;
+
+}
+.conhecimento2
+{ width: 25%;
+    height: 25%;
+    float: right;
+    margin: auto 30px auto auto;
+}
+
+.contatos
+{ width: 200px;
+
+}
+
+.top {
+    background-color: #F0D9FF;
+    position: relative;
+    padding-top: 100px;
+    height: auto;
+    width: auto;
+}
+
+.middle
+{ background-color: #F3F1F5;
+    
+}
+
+.bottom
+{ background-color:#BFA2DB;
+    padding: 30px 0 20px;
+
+    
+}
+
+.topcloud
+{ position: absolute;
+    right:100px;
+    top:100px;
+    width: 20%;
+
+}
+
+.bottomcloud
+{ position: absolute;
+    left:50px;
+    top:100px;
+    width:15%;
+}
+
+.montanha {
+    width: 100%;
+    height: 5%;
+    margin: 0 0 0 0;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #674188;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #F0D9FF;
+    text-decoration: none;
+  }
+
+a {
+   color: #F0D9FF;
+text-decoration: none;
+font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+
+}
+
+a:hover {
+
+    color: white;
+}
+
+.copyright {
+    color: #F0D9FF;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+/*****PALETTES****/
+/*
+#F3F1F5
+#F0D9FF
+#BFA2DB
+#7F7C82
+#674188
+*/
